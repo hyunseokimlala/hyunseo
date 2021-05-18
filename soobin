@@ -1,0 +1,259 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Welcome to HyunSeo's Webpage</title>
+
+<style>
+{
+margin:0;
+Padding:0;
+}
+header{
+height:60px;
+background:#CD5C5C;
+padding:0 50px;
+}
+.webpage{
+width:30%
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#CD5C5C;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner{
+height:100%;
+}
+.banner img{
+width:100%;
+height:105vh;
+align:center;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#541818;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+
+<header>
+<div class="webpage"> 🧚🏻 HyunSeo & Soobin 🧚🏼‍♀️</div>
+
+<nav>
+<ul>
+<li><a href="hyunseowebpage.html">Home</a></li>
+<li><a href="hyunseo.html">hyunseo</a></li>
+<li><a href="soobin.html">soobin</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="content">
+
+<style>
+      body{
+        background-color: Snow;
+        font-family:"Helvetica Neue Light", Helvetica, sans-serif;
+        font-weight: 300;
+        text-align: center;
+       }
+
+      h1{
+        font-size: 40px;
+        margin: 20px;
+       }
+
+      img{
+        border: 5px White;
+        margin: 20px;
+       }
+
+    </style>
+
+  </head>
+
+    <body>
+
+
+<br>
+<br>
+<br>
+
+<p style="color:Maroon;">Hello, everyone! My name is Ashley Kim and this is my website. I'll start with a brief introduction of myself. I have lived in the United States, China, and am currently living in South Korea. This webpage is filled with what I love to do, which includes everything from traveling to going to concerts. I hope you learn more about myself through this website and enjoy browsing through it as well. If you have time, please fill out the short questions at the bottom of the page to make this a better place for you to visit! </p>
+<br>
+<p style="color:Maroon;"> Have fun browsing! </p>
+
+<br>
+<br>
+
+
+<h1 style="border: 2px solid MistyRose;">Places I Have Visited</h1>
+
+
+    <h2> Shanghai, China </h2> 
+    <p> <img src = "IMG_2197.jpeg" width="500" height="500"> </p>
+
+    <h2> Gangneung, South Korea </h2>
+    <p> <img src = "IMG_2251.jpeg" width="500" height="500"> </p>
+
+    <h2> Vladivostok, Russia </h2>
+    <p> <img src = "IMG_7411.jpeg" width="500" height="500"> </p>
+
+<br>
+<br>
+
+<h1 style="border: 2px solid MistyRose;">My favorite things to do </h1>
+
+    <h2> Visiting Concerts </h2>
+    <video width = "640" height = "360" controls>
+      <source src = "IMG_3122.mp4"/>
+    </video>
+
+    <video width = "640" height = "360" controls>
+      <source src = "IMG_8102.mp4"/>
+    </video>
+
+<br>
+
+    <h2> Finding New Foods To Try </h2>
+    <p> <img src = "IMG_0354.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_6025.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_6217.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_7765.jpeg" width="500" height="500"> </p>
+
+<br>
+
+    <h2> Admiring Nature </h2>
+    <p> <img src = "IMG_1548.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_1564.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_7401.jpeg" width="500" height="500"> </p>
+    <p> <img src = "IMG_1944.jpeg" width="500" height="500"> </p>
+
+<br>
+<br>
+
+<h1 style="border: 2px solid MistyRose;">Soobin's Song Suggestions </h1>
+<br>
+<ol>
+<li>The Lumineers - Ophelia</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTOC_q0NLTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+<br>
+<br>
+<li>Get You (Feat. Kali Uchis)</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sweE862aOGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+<br>
+<br>
+<li>Buzzcut Season - Lorde</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pstVCGyaUBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+<br>
+<br>
+<li>Video Games - Lana Del Rey</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cE6wxDqdOV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+<br>
+<br>
+<li>Magic in the Hamptons (Feat. Lil Yachty) - Social House</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4aoQeOnZX1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</ol>
+
+<br>
+<br>
+
+    <h2 style> [This is all we have on this page]</h2>
+
+<br>
+<br>
+<p style="color:IndianRed;"> We need your feedback to make the page better:) </p>
+<br>
+
+<h4> *Enter your email adress </h4>
+    <form action=""method="">
+    <input type="text" name="">
+    </form>
+
+    <h4> What did you like about this page? </h4>
+    <form action=""method="">
+    <input type="text" name="">
+    </form>
+
+
+    <br>
+    <br>
+
+
+    <form action=""method="">
+    Any suggestions to this page? <br>
+    <input type = "checkbox" name = "">More phtos<br>
+    <input type = "checkbox" name = "">More description<br>
+    <input type = "checkbox" name = "">Other contents<br>
+    <input type = "checkbox" name = "">It's already good!
+    </form>
+
+    <br>
+    
+
+    <h4> Would you like to re-visit our page?</h4>
+    <form action=""method="">
+    
+    Yes:
+    <input type="radio" name="yesorno"value=""> </br>
+    No:
+    <input type="radio" name="yesorno" value="">
+<br>
+<br>
+<input type= "submit" name= "submit">
+
+    </form>
+
+    </body>
+
+</html>
+
+
+
