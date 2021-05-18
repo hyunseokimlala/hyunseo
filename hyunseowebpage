@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Welcome to HyunSeo's Webpage</title>
+
+<style>
+{
+margin:0;
+Padding:0;
+}
+header{
+height:60px;
+background:#541818;
+padding:0 50px;
+text-align: center;
+}
+.webpage{
+width:30%
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#541818;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner{
+height:100%;
+}
+.banner img{
+width:100%;
+height:105vh;
+align:center;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#541818;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<div class="webpage"> 🧚🏻 HyunSeo & Soobin 🧚🏼‍♀️</div>
+
+
+<nav>
+<ul>
+<li><a href="hyunseowebpage.html">Home</a></li>
+<li><a href="hyunseo.html">hyunseo</a></li>
+<li><a href="soobin.html">soobin</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="banner">
+<img src="IMG_0696.JPG" alt="">
+</div>
+
+<div class="content">
+
+<p>💁🏻‍♀️ We are Soobin Kim & HyunSeo Kim. We are currently juniors in Cheongna Dalton School. Look around our webpage and find something interesting! Hope to see you back in school soon! </p> 
+<p><b><a class="one" href="http://www.daltonschool.kr/">Cheongna Dalton School</a></b></p>
+<p>🎬 Our favorite movie is called "Eternal Sunshine". The main actors of the movie are Jim Carrey and Kate Winslet. </p> 
+<p>📖 Recently, we read a book related to women right. Hyunseo is reading a book called "The Feminist Revolution" and Soobin is reading a book called "A friendship that changed the world". As you can infer from the title of the book, we are very interested in the Human Right Issues. </p> 
+<p>✝️ We are christian and our favorite quote from the Bible is Hebrew 11:1 " Now faith is being sure of what we hope for and certain of what we do not see. "</p>
+<p>🇨🇳 We lived in China. The cities that we lived are Shanghai, Hangzhou, Beijing, and Tianjin! We miss our life in China! </p>
+<p>ㅤㅤㅤㅤㅤㅤㅤㅤ</p>
+
+
+<p>HyunSeo's Instagram:</p>
+<p><b><a class="one" href="https://www.instagram.com/hhyun._.ss/?hl=en" target="_blank">hhyun._.ss</a></b></p>
+<p>Soobin's Instagram:</p>
+<p><b><a class="one" href="https://www.instagram.com/ashleykim2402/?hl=en">ashleykim2402</a></b></p>
+
+
+
+
+
+</div>
+
+<footer>
+<p>All Right reserved By HyunSeo Kim & Soobin Kim</p>
+</footer>
+
+</body>
+
+
+</html>
