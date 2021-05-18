@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Welcome to HyunSeo's Webpage</title>
+
+<style>
+{
+margin:0;
+Padding:0;
+}
+header{
+height:60px;
+background:#778899;
+padding:0 50px;
+}
+.webpage{
+width:30%
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#778899;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner{
+height:100%;
+}
+.banner img{
+width:100%;
+height:105vh;
+align:center;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#541818;
+color:#778899;
+padding:15px 50px;
+text-align:center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<div class="webpage"> 🧚🏻 HyunSeo & Soobin 🧚🏼‍♀️</div>
+
+<nav>
+<ul>
+<li><a href="hyunseowebpage.html">Home</a></li>
+<li><a href="hyunseo.html">hyunseo</a></li>
+<li><a href="soobin.html">soobin</a></li>
+</ul>
+</nav>
+</header>
+
+
+<div class="content">
+
+<style>
+      body{
+        background-color: GhostWhite;
+        font-family:"Helvetica Neue Light", Helvetica, sans-serif;
+        font-weight: 300;
+        text-align: center;
+       }
+
+      h1{
+        font-size: 40px;
+        margin: 20px;
+       }
+
+      img{
+        border: 5px White;
+        margin: 20px;
+       }
+
+    </style>
+
+  </head>
+
+    <body>
+
+<br>
+<br>
+<br>
+
+<p style="color:DimGray;">Hi! This is HyunSeo Kim and here is my website I (and Soobin) made for you to get to know me better!I lived several different cities in China including Hangzhou,Tianjin,Beijing and Shanghai. Now, I am back in Korea. This page is filled with my memories back in China and few videos about my hobby which you will get to know as you scroll down the page. I hope you learnmore about myself through this website and enjoy browing through it as well.If you have time, please fill out the short questions at the bottom of the page to make this a better place for you to visit! </p>
+
+
+<br>
+<p style="color:DimGray;"> Have fun browsing! </p>
+
+<br>
+<br>
+<br>
+
+<h1 style="border: 2px solid LightGray;">My memories </h1>
+<br>
+
+    <h2> in Beijing, China - 2018 </h2> 
+    <p> <img src = "IMG_1928.jpg" width="500" height="340"> </p>
+    <p> <img src = "IMG_0876.JPG" width="500" height="500"> </p>
+    <p> <img src = "IMG_0245.JPG" width="500" height="340"> </p>
+    <p> <img src = "IMG_9765.JPG" width="500" height="500"> </p>
+<br>
+<br>
+
+    <h2> in Shanghai, China - 2019 </h2>
+    <p> <img src = "IMG_1232.jpg" width="500" height="500"> </p>
+    <p> <img src = "IMG_2112.jpg" width="500" height="380"> </p>
+    <p> <img src = "IMG_6843.jpg" width="500" height="380"> </p>
+    <video width = "500" height = "700" controls>
+      <source src = "1825.mov"/>
+</video>
+
+<br>
+<br>
+    <h2> Back in Korea - 2020 </h2>
+    <p> <img src = "IMG_7680.jpg" width="500" height="500"> </p>
+    <p> <img src = "IMG_7754.jpg" width="500" height="500"> </p>
+    <p> <img src = "IMG_9429.jpg" width="500" height="500"> </p>
+    <p> <img src = "IMG_1021.jpg" width="500" height="500"> </p>
+
+<br>
+<br>
+<h1 style="border: 2px solid LightGray;">HyunSeo up on stage </h1>
+<br>
+
+    <video width = "500" height = "300" controls>
+      <source src = "IMG_4444.mp4"/>
+</video>
+    <video width = "500" height = "300" controls>
+      <source src = "2542.mov"/>
+</video>
+    <video width = "640" height = "360" controls>
+      <source src = "1234.mov"/>
+    </video>
+<br>
+<br>
+<br>
+<br>
+
+<h1 style="border: 2px solid LightGray;">HyunSeo's Song Suggestions </h1>
+<br>
+<ol>
+<li> 썸데이 (Feat.개코,유지) - 나플라 (nafla)</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0B8nfBs4u4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<li>다시 난, 여기 - 백예린</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FFmdTU4Cpr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<li>let's go picnic - 죠지</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3XhvM5OcYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<li>Fallin'(Feat.일리닛) - 폴킴</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1oQ6htI1cU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<li>Before You Exit - Settle for less</li>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTkd1uMyEtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</ol>
+
+
+
+<br>
+<br>
+
+    <h2> [This is all we have on this page]</h2>
+
+<br>
+<br>
+<p style="color:DimGray;">We need your feedback to make the page better:) </p>
+<br>
+
+<h4> *Enter your email- adress </h4>
+    <form action=""method="">
+    <input type="text" name="">
+    </form>
+
+    <h4> What did you like about this page? </h4>
+    <form action=""method="">
+    <input type="text" name="">
+    </form>
+
+
+    <br>
+    <br>
+
+
+    <form action=""method="">
+    Any suggestions to this page? <br>
+    <input type = "checkbox" name = "">More phtos<br>
+    <input type = "checkbox" name = "">More description<br>
+    <input type = "checkbox" name = "">Other contents<br>
+    <input type = "checkbox" name = "">It's already good!
+    </form>
+
+    <br>
+    
+
+    <h4> Would you like to re-visit our page?</h4>
+    <form action=""method="">
+    
+    Yes:
+    <input type="radio" name="yesorno"value=""> </br>
+    No:
+    <input type="radio" name="yesorno" value="">
+<br>
+<br>
+<input type= "submit" name= "submit">
+
+    </form>
+
+    </body>
+
+</html>
+
+
+
